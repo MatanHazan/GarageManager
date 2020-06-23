@@ -1,0 +1,3 @@
+﻿  InstantMenu.cpp
+c:\users\jonim\source\repos\garage-manager\garagemanager\genericmenu\instantmenu.cpp(36): warning C4018: '<=': signed/unsigned mismatch
+  GenericMenu.vcxproj -> C:\Users\jonim\source\repos\Garage-Manager\GarageManager\Debug\GenericMenu.lib
